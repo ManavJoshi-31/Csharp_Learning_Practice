@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Browser_using_Collections/Browser_using_Collections.csproj" />
   <Project Path="Collections_Demo/Collections_Demo.csproj" />
   <Project Path="Count_Word_Freq/Count_Word_Freq.csproj" />
   <Project Path="Student_manager/Student_manager.csproj" />
