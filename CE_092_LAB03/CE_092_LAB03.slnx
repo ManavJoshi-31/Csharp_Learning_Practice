@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="calculatorDelegate/calculatorDelegate.csproj" />
+  <Project Path="customerCode/customerCode.csproj" />
   <Project Path="linqStudentResult/linqStudentResult.csproj" />
 </Solution>
