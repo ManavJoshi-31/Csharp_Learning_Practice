@@ -22,7 +22,7 @@ namespace LINQLAB
         }
     }
 
-    class Program
+    class resultUsingLinq
     {
         static void Main(string[] args)
         {
